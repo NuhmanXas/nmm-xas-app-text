@@ -1,0 +1,35 @@
+{
+  "name": "react-app-text",
+  "version": "1.0.0",
+  "description": "A customizable text component for React applications, using styled-components for styling.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuhmanXas/nmm-xas-app-text.git"
+  },
+  "keywords": [
+    "react",
+    "text",
+    "styled-components",
+    "customizable",
+    "component",
+    "typography"
+  ],
+  "author": "NMM.Nuhman",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "styled-components": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-styled-components": "^1.10.7"
+  }
+}

@@ -1,12 +1,15 @@
 {
   "name": "nmm-xas-react-app-text",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A customizable text component for React applications, using styled-components for styling.",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NuhmanXas/nmm-xas-app-text.git"
+  },"scripts": {
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react",

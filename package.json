@@ -1,5 +1,5 @@
 {
-  "name": "react-app-text",
+  "name": "nmm-xas-react-app-text",
   "version": "1.0.0",
   "description": "A customizable text component for React applications, using styled-components for styling.",
   "main": "index.js",
